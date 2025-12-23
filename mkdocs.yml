@@ -1,0 +1,85 @@
+site_name: Technical Writing Portfolio
+site_description: Professional documentation samples by Yevheniia Sorokina
+site_author: Yevheniia Sorokina
+site_url: https://yevheniiadolska.github.io/technical-writing-portfolio/
+
+theme:
+  name: material
+  palette:
+    # Light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  icon:
+    repo: fontawesome/brands/github
+
+repo_name: YevheniiaDolska/technical-writing-portfolio
+repo_url: https://github.com/YevheniiaDolska/technical-writing-portfolio
+
+nav:
+  - Home: index.md
+  - About Me: CV.md
+  - API Documentation:
+      - Overview: api-documentation/overview.md
+      - Tasks API: api-documentation/api-endpoints.md
+  - Developer Portal:
+      - Overview: developer-portal/index.md
+      - OpenAPI Specification: developer-portal/openapi/index.md
+      - SDK Documentation: developer-portal/sdk/httpx-guide.md
+  - Tutorials:
+      - Quick Start: tutorials/quick-start-guide.md
+  - Developer Guides:
+      - Architecture: developer-guides/architecture.md
+  - Release Notes:
+      - Version 2.0: release-notes/release-notes.md
+  - Confluence Samples: confluence-samples.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - def_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_javascript:
+  - https://unpkg.com/mermaid@10/dist/mermaid.min.js
+  - javascripts/mermaid-init.js
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/eugenia-dolskaya
+    - icon: fontawesome/brands/github
+      link: https://github.com/YevheniiaDolska/technical-writing-portfolio
+    - icon: fontawesome/solid/envelope
+      link: mailto:jane.dolska@gmail.com

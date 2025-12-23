@@ -1,0 +1,13 @@
+# IDE and editor
+.vscode/
+.idea/
+
+# Build output
+site/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local config
+*.local.json
