@@ -106,50 +106,15 @@ I follow industry best practices:
 
 ## Professional Experience
 
-### SoftConstruct | Senior Technical Writer
-*September 2022 - Present*
+**Current Position:** Senior Technical Writer at SoftConstruct  
+**Location:** Wrocław, Poland  
+**Contact:** [jane.dolska@gmail.com](mailto:jane.dolska@gmail.com)
 
-**Key Responsibilities & Achievements:**
+### Professional Experience
 
-- Created documentation structure for multiple enterprise products
-- Developed and maintained system documentation for internal and external users
-- Optimized documentation creation and maintenance processes, reducing time-to-publish by 40%
-- Collaborated with development teams to document new features and APIs
-- Built searchable knowledge base that reduced support tickets by 35%
-- Standardized documentation templates across teams
-
-### Syxsense (Cybersecurity PaaS) | Technical Writer
-*March 2021 - April 2022*
-
-**Key Contributions:**
-
-- Created and updated documentation for cybersecurity PaaS platform
-- Documented REST API endpoints with authentication flows and code examples
-- Optimized documentation workflow, improving team efficiency by 30%
-- Wrote security-focused content for both technical and non-technical audiences
-- Developed troubleshooting guides and FAQs
-- Created marketing content about cybersecurity trends and best practices
-
-### 3Shape (Healthcare Technology) | Technical Writer
-*July 2019 - March 2021*
-
-**Technical Documentation:**
-
-- Created and updated software documentation for dental CAD/CAM systems
-- Documented installation procedures, system requirements, and integrations
-- Developed user manuals for complex 3D imaging software
-- Collaborated with UX team to improve in-app help content
-- Maintained release notes and changelog documentation
-
-### Freelance Technical & B2B Writer
-*April 2017 - Present*
-
-**Diverse Projects:**
-
-- Technical documentation for various B2B companies
-- API documentation and developer guides
-- Content marketing strategies for technology companies
-- SEO-optimized technical content in English, Russian, and Ukrainian
+- **SoftConstruct** (2022-Present) - Enterprise software documentation
+- **Syxsense** (2021-2022) - Cybersecurity PaaS documentation  
+- **3Shape** (2019-2021) - Healthcare technology documentation
 
 ---
 
@@ -241,5 +206,6 @@ I'm passionate about making complex technical concepts accessible to developers 
 - **Email:** [jane.dolska@gmail.com](mailto:jane.dolska@gmail.com)
 - **Phone:** +48 793 057 626
 - **Location:** Wrocław, Poland (GMT+1)
+- **Availability:** Open to remote opportunities
 
 ---
