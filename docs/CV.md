@@ -165,8 +165,10 @@ This portfolio showcases my ability to create various documentation types:
   - **[Interactive API Docs](developer-portal/openapi/index.md)** — Try-it-now Swagger UI sandbox with complete OpenAPI 3.0 specification
   - **[Python SDK Guide](developer-portal/sdk/httpx-guide.md)** — From installation to advanced usage with real-world examples
 
-### Developer Guides
+### Tutorials
 - **[Quick Start Guide](tutorials/quick-start-guide.md)** - Step-by-step tutorial for first-time API users
+
+### Developer Guides
 - **[Architecture Overview](developer-guides/architecture.md)** - System design documentation with diagrams and component descriptions
 
 ### Release Documentation
