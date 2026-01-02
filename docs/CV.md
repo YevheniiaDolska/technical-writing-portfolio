@@ -42,12 +42,14 @@ My background spans cybersecurity, healthcare technology, and enterprise softwar
 - **Documentation Platforms**:
     - Confluence
     - MkDocs
+    - Docusaurus
     - Jira
     - GitBook
     - RoboHelp
     - ReadTheDocs
 - **Docs-as-Code**:
-    - MkDocs, Material for MkDocs
+    - MkDocs
+    - Docusaurus
     - GitHub Pages, GitHub Actions
     - Markdown, YAML
 - **API Testing**:

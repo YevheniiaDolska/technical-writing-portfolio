@@ -124,7 +124,8 @@ This portfolio follows industry best practices:
 - Basic HTML/CSS/JavaScript
 
 ### Tools & Platforms
-- MkDocs with Material theme
+- MkDoc
+- Docusaurus
 - Swagger UI / Swagger Editor
 - Redoc
 - Git, GitHub, GitHub Pages, GitHub Actions
