@@ -34,63 +34,6 @@ This portfolio showcases various types of technical documentation:
 ### Confluence Samples
 - **[Confluence Documentation Samples](confluence-samples.md)** - User guides, feature descriptions, and admin documentation created in Confluence
 
-## Technical Stack
-
-This documentation site is built using modern docs-as-code practices:
-
-- **Static Site Generator:** MkDocs with Material theme
-- **Version Control:** Git & GitHub
-- **CI/CD:** GitHub Actions for automated deployment
-- **Hosting:** GitHub Pages
-- **Diagrams:** Mermaid for architecture diagrams
-- **Search:** Built-in search functionality
-
-## Key Features
-
-- **Responsive Design** - Works on desktop, tablet, and mobile
-- **Dark Mode** - Automatic theme switching
-- **Full-Text Search** - Instantly searchable documentation
-- **Code Highlighting** - Syntax highlighting for multiple languages
-- **Navigation** - Clear hierarchy and breadcrumbs
-- **Print-Friendly** - Optimized CSS for printing
-
-## Project Structure
-
-```
-technical-writing-portfolio/
-│
-├── docs/                      # Documentation source files
-│   ├── index.md              # Homepage
-│   ├── CV.md                 # About the technical writer
-│   ├── confluence-samples.md # Confluence samples overview
-│   ├── api-documentation/    # API docs
-│   │   ├── overview.md
-│   │   └── api-endpoints.md
-│   ├── developer-portal/     # Developer Portal samples
-│   │   ├── index.md         # Portal overview
-│   │   ├── openapi/         # OpenAPI specifications
-│   │   │   ├── index.md     # Interactive Swagger UI
-│   │   │   └── pokeapi-spec.yaml
-│   │   └── sdk/             # SDK documentation
-│   │       └── httpx-guide.md
-│   ├── tutorials/            # Guides and tutorials
-│   │   └── quick-start-guide.md
-│   ├── developer-guides/     # Technical guides
-│   │   └── architecture.md
-│   ├── release-notes/        # Version documentation
-│   │   └── release-notes.md
-│   ├── confluence-samples/   # PDF samples
-│   │   ├── user-guide-sample_1.pdf
-│   │   ├── feature_description.pdf
-│   │   └── admin_documentation.pdf
-│   └── images/               # Images
-│       └── profile.jpg
-├── .github/workflows/        # CI/CD
-│   └── deploy.yml           # GitHub Pages deployment
-├── mkdocs.yml               # MkDocs configuration
-└── requirements.txt         # Python dependencies
-```
-
 ## Documentation Standards
 
 This portfolio follows industry best practices:
@@ -101,7 +44,7 @@ This portfolio follows industry best practices:
 - **Version Control:** Semantic versioning
 - **Accessibility:** WCAG 2.1 AA compliant
 
-## Skills Demonstrated
+## Skills
 
 ### Technical Writing
 - API reference documentation

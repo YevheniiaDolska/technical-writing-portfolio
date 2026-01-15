@@ -154,33 +154,6 @@ Documentation that evolves with your product based on user feedback and analytic
 
 ---
 
-## Technical Writing Samples
-
-This portfolio showcases my ability to create various documentation types:
-
-### API Documentation
-- **[API Overview](api-documentation/overview.md)** - RESTful API introduction with authentication, request/response structures, and best practices
-- **[API Endpoints Reference](api-documentation/api-endpoints.md)** - Detailed endpoint documentation with parameters, examples, and error handling
-
-### Developer Portal
-  - **[Portal Overview](developer-portal/index.md)** — Entry point for developers: authentication flow, quick start, and code samples
-  - **[Interactive API Docs](developer-portal/openapi/index.md)** — Try-it-now Swagger UI sandbox with complete OpenAPI 3.0 specification
-  - **[Python SDK Guide](developer-portal/sdk/httpx-guide.md)** — From installation to advanced usage with real-world examples
-
-### Tutorials
-- **[Quick Start Guide](tutorials/quick-start-guide.md)** - Step-by-step tutorial for first-time API users
-
-### Developer Guides
-- **[Architecture Overview](developer-guides/architecture.md)** - System design documentation with diagrams and component descriptions
-
-### Release Documentation
-- **[Release Notes](release-notes/release-notes.md)** - Version updates, migration guides, and breaking changes
-
-### Confluence Samples
-- **[Confluence Documentation Samples](confluence-samples.md)** - User guides, feature descriptions, and admin documentation created in Confluence
-
----
-
 ## Education & Continuous Learning
 
 **Education:**
