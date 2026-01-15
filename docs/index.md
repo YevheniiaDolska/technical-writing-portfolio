@@ -22,6 +22,8 @@ This portfolio showcases various types of technical documentation:
 ### Developer Portal
 - **[Developer Portal Overview](developer-portal/index.md)** - Interactive API documentation samples
 - **[OpenAPI Specification](developer-portal/openapi/index.md)** - Complete OpenAPI 3.0 spec with Swagger UI sandbox
+
+### Tutorials
 - **[SDK Documentation](developer-portal/sdk/httpx-guide.md)** - Comprehensive Python library documentation
 
 ### Developer Guides
